@@ -1,0 +1,15 @@
+.vscode/
+.env
+
+.DS_Store
+Thumbs.db
+
+dist/
+build/
+temp/
+.cache/
+
+node_modules/
+package-lock.json
+
+*.log

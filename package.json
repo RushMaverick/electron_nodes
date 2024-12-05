@@ -1,0 +1,23 @@
+{
+  "name": "nodes_quicksave",
+  "version": "1.0.0",
+  "description": "A no code node graph application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RushMaverick/electron-node-graph.git"
+  },
+  "author": "RushMaverick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RushMaverick/electron-node-graph/issues"
+  },
+  "homepage": "https://github.com/RushMaverick/electron-node-graph#readme",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
